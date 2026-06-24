@@ -55,7 +55,6 @@ Google The Big Code 2026 — Round 1 Qualifier
 # Contact
 
 Email: bajpairashi1404@gmail.com
-Phone: +91 73026 46001
 LinkedIn: rashi-bajpai-07568232a
 GitHub: Rashi1404
 LeetCode: Rashi_Bajpai
@@ -72,4 +71,4 @@ cd portfolio
 # Open in browser
 open index.html
 
-Made with love by Rashi Bajpai
+Made by Rashi Bajpai
